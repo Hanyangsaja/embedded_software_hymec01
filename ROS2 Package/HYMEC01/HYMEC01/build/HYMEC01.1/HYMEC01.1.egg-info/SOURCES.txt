@@ -1,0 +1,11 @@
+package.xml
+setup.cfg
+setup.py
+HYMEC01.1.egg-info/PKG-INFO
+HYMEC01.1.egg-info/SOURCES.txt
+HYMEC01.1.egg-info/dependency_links.txt
+HYMEC01.1.egg-info/entry_points.txt
+HYMEC01.1.egg-info/requires.txt
+HYMEC01.1.egg-info/top_level.txt
+HYMEC01.1.egg-info/zip-safe
+resource/HYMEC01.1

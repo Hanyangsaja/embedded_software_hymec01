@@ -1,0 +1,48 @@
+[0.263s] Invoking command in '/home/wonker/ros2_humble/HYMEC01': PYTHONPATH=/home/wonker/ros2_humble/HYMEC01/build/HYMEC01/prefix_override:/home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base build/HYMEC01 build --build-base /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build install --record /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/install.log --single-version-externally-managed
+[0.356s] running egg_info
+[0.356s] writing build/HYMEC01/HYMEC01.1.egg-info/PKG-INFO
+[0.356s] writing dependency_links to build/HYMEC01/HYMEC01.1.egg-info/dependency_links.txt
+[0.356s] writing entry points to build/HYMEC01/HYMEC01.1.egg-info/entry_points.txt
+[0.356s] writing requirements to build/HYMEC01/HYMEC01.1.egg-info/requires.txt
+[0.356s] writing top-level names to build/HYMEC01/HYMEC01.1.egg-info/top_level.txt
+[0.357s] reading manifest file 'build/HYMEC01/HYMEC01.1.egg-info/SOURCES.txt'
+[0.357s] writing manifest file 'build/HYMEC01/HYMEC01.1.egg-info/SOURCES.txt'
+[0.358s] running build
+[0.358s] running build_py
+[0.358s] creating /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build
+[0.358s] creating /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib
+[0.358s] creating /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01
+[0.358s] copying HYMEC01/robot3.py -> /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01
+[0.365s] copying HYMEC01/robot1.py -> /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01
+[0.365s] copying HYMEC01/laptop.py -> /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01
+[0.366s] copying HYMEC01/robot4.py -> /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01
+[0.366s] copying HYMEC01/robot2.py -> /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01
+[0.366s] copying HYMEC01/__init__.py -> /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01
+[0.366s] running install
+[0.366s] running install_lib
+[0.366s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.366s]   warnings.warn(
+[0.367s] creating /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01
+[0.367s] copying /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01/robot3.py -> /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01
+[0.367s] copying /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01/robot1.py -> /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01
+[0.367s] copying /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01/laptop.py -> /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01
+[0.367s] copying /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01/robot4.py -> /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01
+[0.367s] copying /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01/robot2.py -> /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01
+[0.367s] copying /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build/lib/HYMEC01/__init__.py -> /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01
+[0.367s] byte-compiling /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01/robot3.py to robot3.cpython-310.pyc
+[0.367s] byte-compiling /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01/robot1.py to robot1.cpython-310.pyc
+[0.368s] byte-compiling /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01/laptop.py to laptop.cpython-310.pyc
+[0.368s] byte-compiling /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01/robot4.py to robot4.cpython-310.pyc
+[0.368s] byte-compiling /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01/robot2.py to robot2.cpython-310.pyc
+[0.369s] byte-compiling /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01/__init__.py to __init__.cpython-310.pyc
+[0.369s] running install_data
+[0.369s] running install_egg_info
+[0.370s] Copying build/HYMEC01/HYMEC01.1.egg-info to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01.1-0.0.0-py3.10.egg-info
+[0.370s] running install_scripts
+[0.381s] Installing laptop script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+[0.381s] Installing robot1 script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+[0.381s] Installing robot2 script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+[0.381s] Installing robot3 script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+[0.382s] Installing robot4 script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+[0.382s] writing list of installed files to '/home/wonker/ros2_humble/HYMEC01/build/HYMEC01/install.log'
+[0.393s] Invoked command in '/home/wonker/ros2_humble/HYMEC01' returned '0': PYTHONPATH=/home/wonker/ros2_humble/HYMEC01/build/HYMEC01/prefix_override:/home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base build/HYMEC01 build --build-base /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/build install --record /home/wonker/ros2_humble/HYMEC01/build/HYMEC01/install.log --single-version-externally-managed

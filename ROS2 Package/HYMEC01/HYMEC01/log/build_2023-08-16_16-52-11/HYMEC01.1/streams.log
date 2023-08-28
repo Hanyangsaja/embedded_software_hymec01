@@ -1,0 +1,25 @@
+[0.310s] Invoking command in '/home/wonker/ros2_humble/HYMEC01.1/build/HYMEC01.1': PYTHONPATH=/home/wonker/ros2_humble/HYMEC01.1/build/HYMEC01.1/prefix_override:/home/wonker/ros2_humble/HYMEC01.1/install/HYMEC01.1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/wonker/ros2_humble/HYMEC01.1/build/HYMEC01.1/build --no-deps install_data
+[0.438s] running develop
+[0.438s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.438s]   warnings.warn(
+[0.439s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.439s]   warnings.warn(
+[0.513s] running egg_info
+[0.513s] writing HYMEC01.1.egg-info/PKG-INFO
+[0.513s] writing dependency_links to HYMEC01.1.egg-info/dependency_links.txt
+[0.513s] writing entry points to HYMEC01.1.egg-info/entry_points.txt
+[0.513s] writing requirements to HYMEC01.1.egg-info/requires.txt
+[0.513s] writing top-level names to HYMEC01.1.egg-info/top_level.txt
+[0.514s] reading manifest file 'HYMEC01.1.egg-info/SOURCES.txt'
+[0.514s] writing manifest file 'HYMEC01.1.egg-info/SOURCES.txt'
+[0.515s] running build_ext
+[0.515s] Creating /home/wonker/ros2_humble/HYMEC01.1/install/HYMEC01.1/lib/python3.10/site-packages/HYMEC01.1.egg-link (link to .)
+[0.515s] Installing laptop script to /home/wonker/ros2_humble/HYMEC01.1/install/HYMEC01.1/lib/HYMEC01.1
+[0.516s] Installing robot1 script to /home/wonker/ros2_humble/HYMEC01.1/install/HYMEC01.1/lib/HYMEC01.1
+[0.516s] Installing robot2 script to /home/wonker/ros2_humble/HYMEC01.1/install/HYMEC01.1/lib/HYMEC01.1
+[0.516s] Installing robot3 script to /home/wonker/ros2_humble/HYMEC01.1/install/HYMEC01.1/lib/HYMEC01.1
+[0.516s] Installing robot4 script to /home/wonker/ros2_humble/HYMEC01.1/install/HYMEC01.1/lib/HYMEC01.1
+[0.516s] 
+[0.516s] Installed /home/wonker/ros2_humble/HYMEC01.1/build/HYMEC01.1
+[0.516s] running install_data
+[0.532s] Invoked command in '/home/wonker/ros2_humble/HYMEC01.1/build/HYMEC01.1' returned '0': PYTHONPATH=/home/wonker/ros2_humble/HYMEC01.1/build/HYMEC01.1/prefix_override:/home/wonker/ros2_humble/HYMEC01.1/install/HYMEC01.1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/wonker/ros2_humble/HYMEC01.1/build/HYMEC01.1/build --no-deps install_data

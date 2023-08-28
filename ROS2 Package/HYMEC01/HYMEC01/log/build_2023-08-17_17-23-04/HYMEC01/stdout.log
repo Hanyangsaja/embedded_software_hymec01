@@ -1,0 +1,23 @@
+running egg_info
+writing build/HYMEC01/HYMEC01.1.egg-info/PKG-INFO
+writing dependency_links to build/HYMEC01/HYMEC01.1.egg-info/dependency_links.txt
+writing entry points to build/HYMEC01/HYMEC01.1.egg-info/entry_points.txt
+writing requirements to build/HYMEC01/HYMEC01.1.egg-info/requires.txt
+writing top-level names to build/HYMEC01/HYMEC01.1.egg-info/top_level.txt
+reading manifest file 'build/HYMEC01/HYMEC01.1.egg-info/SOURCES.txt'
+writing manifest file 'build/HYMEC01/HYMEC01.1.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01.1-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/HYMEC01/HYMEC01.1.egg-info to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/python3.10/site-packages/HYMEC01.1-0.0.0-py3.10.egg-info
+running install_scripts
+Installing laptop script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+Installing robot1 script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+Installing robot2 script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+Installing robot3 script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+Installing robot4 script to /home/wonker/ros2_humble/HYMEC01/install/HYMEC01/lib/HYMEC01
+writing list of installed files to '/home/wonker/ros2_humble/HYMEC01/build/HYMEC01/install.log'

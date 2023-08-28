@@ -1,0 +1,7 @@
+[console_scripts]
+laptop = HYMEC01.1.laptop:main
+robot1 = HYMEC01.1.robot1:main
+robot2 = HYMEC01.1.robot2:main
+robot3 = HYMEC01.1.robot3:main
+robot4 = HYMEC01.1.robot4:main
+
